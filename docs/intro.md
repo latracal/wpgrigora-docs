@@ -2,46 +2,61 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Grigora
 
-Let's discover **Docusaurus in less than 5 minutes**.
+A place where we simply your website building needs. Let's discover **Grigora in less than 5 minutes**.
 
-## Getting Started
+## Quick Start
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Get started by **creating a new website**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [WordPress](https://wordpress.org/download/releases/) version 5.9 or above:
+  - Installed on Localhost.
+  - Or on your website.
 
-## Generate a new site
+## Install Grigora Kit
 
-Generate a new Docusaurus site using the **classic template**.
+We'll begin by installing the plugin.
 
-The classic template will automatically be added to your project after you run the command:
+Login to your **Wordpress Admin Panel** and go to **Plugins > Add New** section.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Search for **Grigora Kit** plugin and **Install and Activate** it.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+![Installing Grigora Kit](/img/tutorial/installinggrigorakit.png)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Enable Starter Templates
 
-## Start your site
+After installing Grigora Kit, we need to enable the Starter Templates module.
 
-Run the development server:
+This can be found in your Wordpress Admin Sidebar.
 
-```bash
-cd my-website
-npm run start
-```
+Click on the **Sidebar Menu** and Enable the **Starter Templates** module.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+![Activating Starter Templates](/img/tutorial/activatingst.png)
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+*Note: This will only work if you have a Block Theme installed. By default, Twenty Twenty Two is installed (one of the block theme). If you get a warning of missing Block Theme, then you need to install any Block Theme from **Appearance > Themes**.*
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Install a Pre-Built Website
+
+After enabling Starter Templates, go to **Grigora's Kit > Starter Templates** from the sidebar.
+
+![Selecting a Pre Built Website](/img/tutorial/selectingtemplate.png)
+
+There there are list of many pre built templates which you can import and start editing. Follow these steps -
+
+1. Click on any of the template you like. This will open up a window displaying the preview of template along with pre customization options.
+2. Edit the General Settings or click Skip.
+3. Edit the Colors or click Skip.
+4. Edit the Typography or click Skip.
+5. Edit the Layout or click Skip.
+6. Finishing Up - We recommend you to tick all the options. This will make sure the website looks exactly the same as preview.
+
+Wait for 1-2 minutes to finish up the import. Once the process is complete, you'll get a message to view your website.
+
+## Start Editing your Website
+
+![Start Editing](/img/tutorial/startediting.png)
+
+Now, start editing your website as per your need by clicking the **Edit Site** option on the top Admin bar or from **Appearance > Edit Site** in Admin Panel.

@@ -10,32 +10,31 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Awesome Blocks',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Create a website with custom blocks. The blocks have
+        Typography Controls, Layout Controls, Hover Effects, On Scroll Animations, and Spacing Controls.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Starter Templates',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Create awesome-looking websites with few clicks. This module allows you to preview, edit and import the templates.
+        These templates are well optimized by experts to keep your Pagespeed Insights green. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Faster Load Times',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Conditional CSS/JS loading makes your website light weight. This helps us achieve 500ms load time on almost every website.
       </>
     ),
   },
