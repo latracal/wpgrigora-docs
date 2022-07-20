@@ -20,7 +20,7 @@ Get started by **creating a new website**.
 
 We'll begin by installing the plugin.
 
-Login to your **Wordpress Admin Panel** and go to **Plugins > Add New** section.
+Login to your **Wordpress Admin Panel** and go to **Appearance > Add New** section.
 
 Search for **Grigora Kit** plugin and **Install and Activate** it.
 
