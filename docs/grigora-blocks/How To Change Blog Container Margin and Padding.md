@@ -23,4 +23,4 @@ In List Views, open the heirarchy of group Select Column
 
 now select Block Settings in Right Top Corner, under Dimensions change padding and margin
 
-![Toggle Open Archive](/img/tutorial/bcmp6changemargin/padding.png)
+![Toggle Open Archive](/img/tutorial/bcmp6changemarginpadding.png)

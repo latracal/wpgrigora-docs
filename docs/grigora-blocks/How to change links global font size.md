@@ -8,6 +8,10 @@ In Right Corner select **Styles > Typography > Links > Size**.
 
 ![Open selectStyle](/img/tutorial/lgfs2selectStyle.png)
 
+Select Links
+
 ![Open selectText](/img/tutorial/lgfs3selectlinks.png)
+
+Change Font Size
 
 ![Open ChangeLineHeight](/img/tutorial/lgfs4ChangeSize.png)

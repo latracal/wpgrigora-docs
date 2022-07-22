@@ -8,7 +8,11 @@ In Right Corner select **Styles > Typography > Links > Font Family**.
 
 ![Open selectStyle](/img/tutorial/lgff2selectStyle.png)
 
+Select Links
+
 ![Open selectText](/img/tutorial/lgff3selectlinks.png)
+
+Change Font Family
 
 ![Open ChangeLineHeight](/img/tutorial/lgff4ChangeFontFamily.png)
 

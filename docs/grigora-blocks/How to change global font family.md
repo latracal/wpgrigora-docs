@@ -8,6 +8,10 @@ In Right Corner select **Styles > Typography > Text > Font family**.
 
 ![Open selectStyle](/img/tutorial/gff2selectStyle.png)
 
+Select Text
+
 ![Open selectText](/img/tutorial/gff3selectText.png)
+
+Change Font Family
 
 ![Open changeFontFamily](/img/tutorial/gff4changeFontFamily.png)
