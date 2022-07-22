@@ -1,8 +1,8 @@
 ---
-description: What are Modules in Grigora Kit.
+description: What are Modules in Grigora Kit?
 ---
 
-# What are Modules in Grigora Kit
+# What are Modules in Grigora Kit?
 
 There Are **Three Modules** in Grigora's Kit which are Following:
 
@@ -10,4 +10,4 @@ There Are **Three Modules** in Grigora's Kit which are Following:
 2) **Blocks**
 3) **Table of Contents**
 
-![Activating Starter Templates](/img/tutorial/Modules.png)
+![Modules](/img/tutorial/Modules.png)
