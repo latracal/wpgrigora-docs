@@ -10,7 +10,7 @@ Login to your **Wordpress Admin Panel** and go to **Appearance > Add New** secti
 
 Search for **Grigora Kit** plugin and **Install and Activate** it.
 
-![Installing Grigora Kit](/img/tutorial/installinggrigorakit.png)
+![Installing Grigora Kit](/img/tutorial/installinggrigorakit.webp)
 
 ## Enable Starter Templates
 
@@ -20,6 +20,6 @@ This can be found in your Wordpress Admin Sidebar.
 
 Click on the **Sidebar Menu** and Enable the **Starter Templates** module.
 
-![Activating Starter Templates](/img/tutorial/activatingst.png)
+![Activating Starter Templates](/img/tutorial/activatingst.webp)
 
 *Note: This will only work if you have a Block Theme installed. By default, Twenty Twenty Two is installed (one of the block theme). If you get a warning of missing Block Theme, then you need to install any Block Theme from **Appearance > Themes**.*

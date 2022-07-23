@@ -6,14 +6,14 @@ sidebar_position: 1
 
 Login to your **Wordpress Admin Panel** and go to **Appearance > Add New** section.
 
-![Installing Grigora Blocks](/img/tutorial/installingGrigoraBlocks.png)
+![Installing Grigora Blocks](/img/tutorial/installingGrigoraBlocks.webp)
 
 Click on **Add New** from top of the window, and, in **Search Bar** search for **Grigora Blocks**.
 
 Then click on **Install Theme** button.
 
-![Installing Grigora Blocks2](/img/tutorial/installingGrigoraBlocks2.png)
+![Installing Grigora Blocks2](/img/tutorial/installingGrigoraBlocks2.webp)
 
 After Installing Grigora Blocks Click on **Activate** to Activate the theme
 
-![Activating Grigora Blocks](/img/tutorial/activatingGrigoraBlocks.png)
+![Activating Grigora Blocks](/img/tutorial/activatingGrigoraBlocks.webp)

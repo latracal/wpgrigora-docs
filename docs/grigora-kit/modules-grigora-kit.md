@@ -10,4 +10,4 @@ There Are **Three Modules** in Grigora's Kit which are Following:
 2) **Blocks**
 3) **Table of Contents**
 
-![Modules](/img/tutorial/Modules.png)
+![Modules](/img/tutorial/Modules.webp)

@@ -24,7 +24,7 @@ Login to your **Wordpress Admin Panel** and go to **Appearance > Add New** secti
 
 Search for **Grigora Kit** plugin and **Install and Activate** it.
 
-![Installing Grigora Kit](/img/tutorial/installinggrigorakit.png)
+![Installing Grigora Kit](/img/tutorial/installinggrigorakit.webp)
 
 ## Enable Starter Templates
 
@@ -34,7 +34,7 @@ This can be found in your Wordpress Admin Sidebar.
 
 Click on the **Sidebar Menu** and Enable the **Starter Templates** module.
 
-![Activating Starter Templates](/img/tutorial/activatingst.png)
+![Activating Starter Templates](/img/tutorial/activatingst.webp)
 
 *Note: This will only work if you have a Block Theme installed. By default, Twenty Twenty Two is installed (one of the block theme). If you get a warning of missing Block Theme, then you need to install any Block Theme from **Appearance > Themes**.*
 
@@ -42,7 +42,7 @@ Click on the **Sidebar Menu** and Enable the **Starter Templates** module.
 
 After enabling Starter Templates, go to **Grigora's Kit > Starter Templates** from the sidebar.
 
-![Selecting a Pre Built Website](/img/tutorial/selectingtemplate.png)
+![Selecting a Pre Built Website](/img/tutorial/selectingtemplate.webp)
 
 There there are list of many pre built templates which you can import and start editing. Follow these steps -
 
@@ -57,6 +57,6 @@ Wait for 1-2 minutes to finish up the import. Once the process is complete, you'
 
 ## Start Editing your Website
 
-![Start Editing](/img/tutorial/startediting.png)
+![Start Editing](/img/tutorial/startediting.webp)
 
 Now, start editing your website as per your need by clicking the **Edit Site** option on the top Admin bar or from **Appearance > Edit Site** in Admin Panel.
