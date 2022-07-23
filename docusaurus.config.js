@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Grigora Docs',
   tagline: 'A perfect solution to build your websites fast and awesome.',
-  // url: 'https://wpgrigora.com/',
-  url: 'http://localhost:3000/', // for localhost
+  // url: 'http://localhost:3000/', // for localhost
+  url: 'https://docs.wpgrigora.com', // Url to your site with no trailing slash
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/latracal/wpgrigora-docs/',
+          editUrl: 'https://github.com/latracal/wpgrigora-docs/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/latracal/wpgrigora-docs/',
+            'https://github.com/latracal/wpgrigora-docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
