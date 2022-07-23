@@ -22,4 +22,4 @@ Scroll Down on post author, Now click on **Post Author**, then select post autho
 
 Now tap on **Remove Post Author**.
 
-![Remove Post Author](/img/tutorial/Raan5removePostAuthor.png)
+![Remove Post Author](/img/tutorial/raan5removePostAuthor.png)
