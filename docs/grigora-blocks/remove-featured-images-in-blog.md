@@ -1,15 +1,14 @@
 ---
-description: Remove Featured Images In Blogs Page?
+description: Remove Featured Images In Blog Page?
 ---
 
-# Remove Featured Images In Blogs Page?
+# Remove Featured Images In Blog Page?
 
 In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/rfi1OpenEditor.png)
 
-After opening **Editor Section** Click **Toggle Navigation > Templates > Archive** which in on **left top** corner of Editor Section Screen.
-Click on **Toggle Navigation** 
+After opening **Editor Section** Click **Toggle Navigation** which in on **left top** corner of Editor Section Screen.
 
 ![Toggle Navigation](/img/tutorial/rfi2toggleNavigation.png)
 
@@ -21,6 +20,6 @@ Scroll Down on post author, Now click on **Post Featured Image**, then select po
 
 ![Post Featured Image](/img/tutorial/rfi4selectpostFeaturedImage.png)
 
-now tap on **Remove Post Featured Image**.
+Now tap on **Remove Post Featured Image**.
 
 ![Remove PostFeaturedImage](/img/tutorial/rfi5removePostFeaturedImage.png)

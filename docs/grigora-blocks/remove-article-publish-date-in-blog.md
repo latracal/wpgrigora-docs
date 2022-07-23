@@ -1,11 +1,14 @@
-<!-- # How to remove article publish date in blog page -->
+---
+description: How to remove Article Publish Date in blog page?
+---
+
+# How to remove Article Publish Date in blog page?
 
 In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/radp1OpenEditor.png)
 
-After opening **Editor Section** Click **Toggle Navigation > Templates > Archive** which in on **left top** corner of Editor Section Screen.
-Click on **Toggle Navigation** 
+After opening **Editor Section** Click **Toggle Navigation** which in on **left top** corner of Editor Section Screen.
 
 ![Open Toggle Navigation](/img/tutorial/radp2toggleNavigation.png)
 
@@ -17,6 +20,6 @@ Scroll Down a little until you see **Article Publish Date**, then select Date an
 
 ![Open Select Date](/img/tutorial/radp4selectDate.png)
 
-now tap on **Remove Post Date**.
+Now tap on **Remove Post Date**.
 
 ![Open Remove Date](/img/tutorial/radp5removeDate.png)

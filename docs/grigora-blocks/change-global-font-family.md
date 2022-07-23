@@ -1,8 +1,8 @@
 ---
-description: How to change global font family?
+description: How to change Global Font Family?
 ---
 
-# How to change global font family?
+# How to change Global Font Family?
 
 In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
@@ -12,10 +12,10 @@ In Right Corner select **Styles > Typography > Text > Font family**.
 
 ![Select Style](/img/tutorial/gff2selectStyle.png)
 
-Select Text
+Select Text option from the available Elements section.
 
 ![Select Text](/img/tutorial/gff3selectText.png)
 
-Change Font Family
+Change Font Family as per your choice.
 
 ![Change Font Family](/img/tutorial/gff4changeFontFamily.png)

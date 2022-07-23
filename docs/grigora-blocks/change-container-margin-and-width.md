@@ -12,7 +12,7 @@ Firstly Add **Group** from **Toggle Block Inserter**
 
 ![Insert Group](/img/tutorial/ccmw2insertGroup.png)
 
-now select **Group** and go to **Group settings** in the **right top corner**.Under Settings **Change Width and Margin**.
+Now select **Group** and go to **Group settings** in the **right top corner**.Under Settings **Change Width and Margin**.
 
 ![Change Margin and Width](/img/tutorial/ccmw3changeMarginandWidth.png)
 

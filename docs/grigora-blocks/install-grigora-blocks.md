@@ -8,7 +8,9 @@ Login to your **Wordpress Admin Panel** and go to **Appearance > Add New** secti
 
 ![Installing Grigora Blocks](/img/tutorial/installingGrigoraBlocks.png)
 
-Once you click on **Add New**, in **Search Bar** search for **Grigora Blocks** and **Install Theme** 
+Click on **Add New** from top of the window, and, in **Search Bar** search for **Grigora Blocks**.
+
+Then click on **Install Theme** button.
 
 ![Installing Grigora Blocks2](/img/tutorial/installingGrigoraBlocks2.png)
 

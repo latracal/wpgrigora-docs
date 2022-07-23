@@ -1,18 +1,18 @@
 ---
-description: How to use Number Counter Block?
+description: Number Counter
 ---
 
-# How to use Number Counter Block?
+# Number Counter
 
-**After Turning on Blocks from Grigora's Kit Dashboard.**
+After Turning on Blocks from Grigora's Kit Dashboard.
 
-**We can use Number Counter Block in Editor from Toggle Block Inserter.**
+We can use Number Counter Block in Editor from Toggle Block Inserter.
 
-**Insert Number Counter from Blocks.**
+Insert Number Counter from Blocks.
 
-**Once Number Counter is inserted, select the Number Counter.**
+Once Number Counter is inserted, select the Number Counter.
 
-**Now Go to Number Counter settings, in block settings we see settings of Number Counter and we'll be exploring them one by one.**
+Now Go to Number Counter settings, in block settings we see settings of Number Counter and we'll be exploring them one by one.
 
 ## Counter
 
@@ -26,7 +26,7 @@ description: How to use Number Counter Block?
 
 **5)** Number Suffix Will add Text or Numbers after Counter.
 
-**6)** Using Thousand Separator we can add commas(,) or Dots(.) to separate. 
+**6)** Using Thousand Separator we can add commas (,) or Dots(.) as a separator. 
 
 ## Typography
 
@@ -38,11 +38,11 @@ description: How to use Number Counter Block?
 
 **Word Spacing** : Here we can add the space between words by Dragging Slider Back and Forth. Minimum value can be "0 px", Maximum value can be "150 px" and default value is "0 px".
 
-**Transform** : Here we can Transform font to Uppercase(All Letters Capital), Lowercase(All letters small) and Capitalize(First letter of word is capital).
+**Transform** : Here we can Transform font to Uppercase (All Letters Capital), Lowercase (All letters small) and Capitalize (First letter of word is capital).
 
 **Style** : Here we can style text to different styles.
 
-**Decoration** : Here we apply decoration to text, Overline(Adds line above text), Line Through(Adds line through text), Underline(Adds line Below text), Underline OverLine(Adds line Above and Below text).
+**Decoration** : Here we apply decoration to text, Overline (Adds line above text), Line Through (Adds line through text), Underline (Adds line Below text), Underline OverLine (Adds line Above and Below text).
 
 **Weight** : Here we can apply weight to text from 100 to 900.
 

@@ -8,7 +8,7 @@ In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/cffs1OpenEditor.png)
 
-After opening **Editor Section** Click **Toggle Navigation > Template Parts > Footer** which in on **left top** corner of Editor Section Screen.
+After opening **Editor Section** Click **Toggle Navigation** which in on **left top** corner of Editor Section Screen.
 
 ![Toggle Navigation](/img/tutorial/cffs2toggleNavigation.png)
 

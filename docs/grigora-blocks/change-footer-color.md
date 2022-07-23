@@ -8,7 +8,7 @@ In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/cfc1OpenEditor.png)
 
-After opening **Editor Section** Click **Toggle Navigation > Template Parts > Footer** which in on **left top** corner of Editor Section Screen.
+After opening **Editor Section**, click **Toggle Navigation** which in on **left top** corner of Editor Section Screen.
 
 ![Toggle Navigation](/img/tutorial/cfc2toggleNavigation.png)
 
@@ -24,6 +24,6 @@ Under **List View** go to group hierarchy and select 2nd Group
 
 ![Select Group](/img/tutorial/cfc5selectGroup.png)
 
-now go to **Group Settings** and Select **Backround** under **Color** and change Font size
+Now go to **Group Settings** and Select **Backround** under **Color** and change Font Color.
 
 ![Change background Color](/img/tutorial/cfc6ChangeBackgroundColor.png)

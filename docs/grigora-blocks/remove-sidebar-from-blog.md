@@ -1,8 +1,8 @@
 ---
-description: How to remove sidebar from archives page?
+description: How to remove Sidebar from Archives Page?
 ---
 
-# How to remove sidebar from archives page?
+# How to remove Sidebar from Archives Page?
 
 In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
@@ -14,8 +14,10 @@ After opening **Editor Section** Click **Toggle Navigation > Templates > Archive
 
 ![Open Archive](/img/tutorial/rs3openArchive.png)
 
-Once **Archive Page is Open**, Click on **List View** Open **Hierarchy of Group** in Group open **Columns** select second **Column** click on 3 dots and tap **Remove Column**.
+Once **Archive Page is Open**, Click on **List View** Open **Hierarchy of Group** in Group open **Columns** select second **Column**.
 
 ![List View](/img/tutorial/rs4listView.png)
+
+Click on 3 dots and tap **Remove Column**. Before you remove the column make sure you've verified that you've selected the correct Block in Block Editor.
 
 ![Remove](/img/tutorial/rs5Remove.png)

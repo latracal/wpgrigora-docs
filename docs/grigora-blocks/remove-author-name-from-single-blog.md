@@ -8,8 +8,7 @@ In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/ran1OpenEditor.png)
 
-After opening **Editor Section** Click **Toggle Navigation > Templates > Archive** which in on **left top** corner of Editor Section Screen.
-Click on **Toggle Navigation** 
+After opening **Editor Section** Click **Toggle Navigation** which in on **left top** corner of Editor Section Screen.
 
 ![Open Toggle Navigation](/img/tutorial/ran2toggleNavigation.png)
 
@@ -21,6 +20,6 @@ Now click on **Post Author**, then select post author and click on **3 dots**.
 
 ![Select Author](/img/tutorial/ran4selectAuthor.png)
 
-now tap on **Remove Post Author**.
+Now tap on **Remove Post Author**.
 
 ![Remove Post Author](/img/tutorial/ran5RemovePostAuthor.png)

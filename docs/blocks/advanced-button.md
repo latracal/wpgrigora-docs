@@ -1,18 +1,18 @@
 ---
-description: How to use Advanced Button Block?
+description: Advanced Button
 ---
 
-# How to use Advanced Button Block?
+# Advanced Button
 
-**After Turning on Blocks from Grigora's Kit Dashboard.**
+After Turning on Blocks from Grigora's Kit Dashboard.
 
-**We can use Advanced Button Block in Editor from Toggle Block Inserter.**
+We can use Advanced Button Block in Editor from Toggle Block Inserter.
 
-**Insert Advanced Button from Blocks.**
+Insert Advanced Button from Blocks.
 
-**Once Button is inserted, select the Button.**
+Once Button is inserted, select the Button.
 
-**Now Go to Button block settings, in block settings we see bunch of settings and we'll be exploring them one by one.**
+Now Go to Button block settings, in block settings we see bunch of settings and we'll be exploring them one by one.
 
 ## Typography
 
@@ -24,7 +24,7 @@ description: How to use Advanced Button Block?
 
 **Word Spacing**: Here we can add the space between words by Dragging Slider Back and Forth where minimum size is "0 px", Maximum size is "150 px" and default size is "0 px".
 
-**Transform**: Here we can Transform font to Uppercase(All Letters Capital), Lowercase(All letters small) and Capitalize(First letter of word is capital).
+**Transform**: Here we can Transform font to Uppercase (All Letters Capital), Lowercase (All letters small) and Capitalize (First letter of word is capital).
 
 **Style**: Here we can style text to different styles.
 
@@ -36,7 +36,7 @@ description: How to use Advanced Button Block?
 
 ## Color, Border & Effects
 
-### *Normal*
+### Normal
 
 **Colors**: Here we can change color
 **i) Text**: Here we can change color of text. We get two options to choose colors i.e. 
@@ -44,13 +44,11 @@ ColorPicker and Color Palette.
 
 **ii) Background**: Here we can change color of Background and we get two options to choose colors i.e. ColorPicker and Color Palette. We aslo get a Gradient Background to use it we have to enable it. In Gradient Background we can set its type i.e. linear or radial and we we can set angle.
 
-
 **Border** : Here we can Apply border to button with Three styles Solid, Dashed and Dotted.
 Color of border can also be changed with color picker. 
 By clicking on Unlink sides we can apply border to any particular side. 
 Width of border can also be changed.
 Under Radius we can also change border radius. By clicking on Unlink sides we can change radius of any particular side.
-
 
 **Box Shadow** : Here we can apply shadows to button Which can be applied horizontally and vertically with customizable Dimensions. We can also apply blur and spread effect.
     
@@ -66,8 +64,7 @@ Under Radius we can also change border radius. By clicking on Unlink sides we ca
 
 *Note: We can reset the modified value to default by clicking reset button.*
 
-### *Hover*
-*(Note : This setting will work when we hover on button and to use Hover Effects we need to enable it)* 
+### Hover
 
 **Animation** : Here we get bunch of animations for buttons under Attention Seekers. And the time of animations can also be set using transition time.
 
@@ -123,4 +120,6 @@ Under Radius we can also change border radius. By clicking on Unlink sides we ca
 
 ## On Scroll
 
-**1)** Here we can apply On Scroll effect to button by selecting from animations. And the time of animations can also be changed.
+We can apply On Scroll effect to button by selecting from animations. And the time of animations can also be changed.
+
+*Note: Enabling this enqueues a animation.min.css and animate.js to enable animations. Although, this may not impact on your speed but its good to know why these files were enqueued.*
