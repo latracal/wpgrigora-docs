@@ -8,18 +8,22 @@ In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/cbdc1OpenEditor.png)
 
-Once editor is opened Tap on Toggle Block Inserter
+In Right Corner select **Styles > Colors > Palette > Click on Three Dots> Edit colors > Select Button**. 
 
-![Select Inserter](/img/tutorial/cbdc2selectInserter.png)
+![Select Style](/img/tutorial/cbdc2selectStyles.png)
 
-In inserter, insert **Button** Block
+Select Palette from the available Elements section.
 
-![Insert Button](/img/tutorial/cbdc3insertButton.png)
+![Select Palette](/img/tutorial/cbdc3Palettes.png)
 
-Once **Button** is inserted, go to **Button Settings** 
+Tap on three dots and select edit colors
 
-![Button Settings](/img/tutorial/cbdc4ButtonSettings.png)
+![Select Palette](/img/tutorial/cbdc4EditColors.png)
 
-Go to **Background Color** and change the button color 
+Now open button under solid color
 
-![Background Color](/img/tutorial/cbdc5backgroundColor.png)
+![Select Palette](/img/tutorial/cbdc5OpenButton.png)
+
+Change Color as per your choice.
+
+![Choose Color](/img/tutorial/cbdc6ChooseColor.png)

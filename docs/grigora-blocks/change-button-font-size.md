@@ -8,12 +8,14 @@ In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/cbfs1OpenEditor.png)
 
-Once editor is Opened, insert **Button** from **Toggle Block Inserter**
+In Right Corner select **Styles > Typography > Button > Size**. 
 
-![Insert Button](/img/tutorial/cbfs2insertButton.png)
+![Select Style](/img/tutorial/cbfs2SelectSyles.png)
 
-![Button](/img/tutorial/cbfs3Button.png)
+Select Buttons from the available Elements section.
 
-Now on right top corner open **Settings** tab, in setting tab, under **Typography** select **size and edit it**.
+![Select Buttons](/img/tutorial/cbfs3SelectButtons.png)
 
-![Change Size](/img/tutorial/cbfs4changeSize.png)
+Change Font Size as per your choice.
+
+![Change Font Size](/img/tutorial/cbfs4ChangeFontSize.png)

@@ -23,14 +23,6 @@ Edit **Primary Menu** and **Save it**
 
 ![Edit Primary Menu](/img/tutorial/cpm4editPrimaryMenu.png)
 
-now In toggle Block inserter, insert **Header Block**,
-
-![Insert Header](/img/tutorial/cpm5InsertHeader.png)
-
-Now Choose **Header** from **Existing template parts**
-
-![Choose Header](/img/tutorial/cpm6ChooseHeader.png)
-
 
 
 

@@ -42,7 +42,7 @@ In Background we have two options **Normal** and **Hover**.
 
 **Gradient** : Here we can display two more colors in smooth transition. Gradient is available in two types i.e. lenear and Radial. Angles can also be changed.
 
-**Images** : Here we can add images to the background. And can also add multiple images to use as slideshow. Select Single Image for single image.
+**Images** : Here we can add images to the background. Select Single Image for single image. We can also toggle on **Fixed** button to fix the in background. And can also a**dd multiple images to use as slideshow**. Slideshow can also be fixed in background by toggling on **Fixed** button. It can also be played in loop by toggling on **Loop** button. We can also set time of single image by **Single Image Duration** slider, where minimum time is 0.5 sec, maximum time is 20 sec and default time is 5 sec. Transitions can also be changed under **Transition Section** and Time can also be changed under **Transition Duration** section, where minimum time is 0.1 sec, maximum time is 5 sec and default time is 0.5 sec .  
 
 **Video** : Here we can add videos thorugh link or gallery and that video can be played in loop.
 
@@ -52,7 +52,7 @@ In Background we have two options **Normal** and **Hover**.
 
 **Gradient** : Here we can display two more colors in smooth transition. Gradient is available in two types i.e. lenear and Radial. Angles can also be changed.
 
-**Image** : Here we can add image (only one) to the background.  Transition time can also be set using slider. Minimum Time is 0.1 sec, Maximum time is 5 sec and default time is 1 sec.
+**Image** : Here we can add image (only one) to the background.  Transition time can also be set using slider. Minimum Time is 0.1 sec, Maximum time is 5 sec and default time is 1 sec. We can also toggle on fixed button to fix the in background.
 
 ## Background Overlay
 
@@ -64,7 +64,7 @@ In Background Overlay we have two options **Normal** and **Hover**.
 
 **Gradient** : Here we can display two more colors in smooth transition. Gradient is available in two types i.e. linear and Radial. Angles can also be changed.
 
-**Image** : Here we can add images to the background. We can also add overlay of color or gradient using Colorpicker or Color palette.
+**Image** : Here we can add images to the background. We can also add overlay of color or gradient using Colorpicker or Color palette. We can also toggle on fixed button to fix the in background.
 
 ### Hover
 
@@ -72,7 +72,7 @@ In Background Overlay we have two options **Normal** and **Hover**.
 
 **Gradient** : Here we can display two more colors in smooth transition. Gradient is available in two types i.e. linear and Radial. Angles can also be changed.
 
-**Image** : Here we can add images to the background. We can also add overlay of color or gradient using Colorpicker or Color palette.
+**Image** : Here we can add images to the background. We can also add overlay of color or gradient using Colorpicker or Color palette. We can also toggle on fixed button to fix the in background.
 
 
 ## Text Color
@@ -107,13 +107,13 @@ Under Radius we can also change border radius. By clicking on Unlink sides we ca
     
 **Transforms** : 
 
-**i) Rotate** : Here we can rotate Group in x axis, y axis and z axis. Entered value has degree as unit.
+**Rotate** : Here we can rotate Group in x axis, y axis and z axis. Entered value has degree as unit.
 
-**ii) Skew** : Here we can tilt the Group in x axis and y axis. Entered value has degree as unit.
+**Skew** : Here we can tilt the Group in x axis and y axis. Entered value has degree as unit.
 
-**iii) Offset** : Here we can shift the Group in x axis and y axis. Entered value has pixel as unit.
+**Offset** : Here we can shift the Group in x axis and y axis. Entered value has pixel as unit.
 
-**iv) Scale** : Here we can increase or decrease the scale of Group. Here value can be changed from 0 to 2.
+**Scale** : Here we can increase or decrease the scale of Group. Here value can be changed from 0 to 2.
 
 ### Hover
 
@@ -129,13 +129,13 @@ Under Radius we can also change border radius. By clicking on Unlink sides we ca
     
 **Transforms** : 
 
-**i) Rotate** : Here we can rotate Group in x axis, y axis and z axis. Entered value has degree as unit.
+**Rotate** : Here we can rotate Group in x axis, y axis and z axis. Entered value has degree as unit.
 
-**ii) Skew** : Here we can tilt the Group in x axis and y axis. Entered value has degree as unit.
+**Skew** : Here we can tilt the Group in x axis and y axis. Entered value has degree as unit.
 
-**iii) Offset** : Here we can shift the Group in x axis and y axis. Entered value has pixel as unit.
+**Offset** : Here we can shift the Group in x axis and y axis. Entered value has pixel as unit.
 
-**iv) Scale** : Here we can increase or decrease the scale of Group. Here value can be changed from 0 to 2.
+**Scale** : Here we can increase or decrease the scale of Group. Here value can be changed from 0 to 2.
 
 *Note: We can reset the modified value to default by clicking reset button.*
 

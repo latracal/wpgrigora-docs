@@ -39,10 +39,11 @@ Now Go to Button block settings, in block settings we see bunch of settings and 
 ### Normal
 
 **Colors**: Here we can change color
-**i) Text**: Here we can change color of text. We get two options to choose colors i.e. 
+
+**Text**: Here we can change color of text. We get two options to choose colors i.e. 
 ColorPicker and Color Palette. 
 
-**ii) Background**: Here we can change color of Background and we get two options to choose colors i.e. ColorPicker and Color Palette. We aslo get a Gradient Background to use it we have to enable it. In Gradient Background we can set its type i.e. linear or radial and we we can set angle.
+**Background**: Here we can change color of Background and we get two options to choose colors i.e. ColorPicker and Color Palette. We aslo get a Gradient Background to use it we have to enable it. In Gradient Background we can set its type i.e. linear or radial and we we can set angle.
 
 **Border** : Here we can Apply border to button with Three styles Solid, Dashed and Dotted.
 Color of border can also be changed with color picker. 
@@ -54,13 +55,13 @@ Under Radius we can also change border radius. By clicking on Unlink sides we ca
     
 **Transforms** : 
 
-**i) Rotate** : Here we can rotate button in x axis, y axis and z axis.
+**Rotate** : Here we can rotate button in x axis, y axis and z axis.
 
-**ii) Skew** : Here we can tilt the button in x axis and y axis.
+**Skew** : Here we can tilt the button in x axis and y axis.
 
-**iii) Offset** : Here we can shift the button in x axis and y axis. 
+**Offset** : Here we can shift the button in x axis and y axis. 
 
-**iv) Scale** : Here we can increase or decrease the scale of Button.
+**Scale** : Here we can increase or decrease the scale of Button.
 
 *Note: We can reset the modified value to default by clicking reset button.*
 
@@ -70,9 +71,9 @@ Under Radius we can also change border radius. By clicking on Unlink sides we ca
 
 **Colors** : Here we can change color
 
-**i) Text** : Here we can change color of text. We get two options to choose colors i.e. ColorPicker and Color Palette. 
+**Text** : Here we can change color of text. We get two options to choose colors i.e. ColorPicker and Color Palette. 
 
-**ii) Background** : Here we can change color of Background and we get  three options to choose colors i.e. ColorPicker and Color Palette. We aslo get a Gradient Background to use it we have to enable it. In Gradient Background we can set its type i.e. linear or radial and we we can set angle.
+**Background** : Here we can change color of Background and we get  three options to choose colors i.e. ColorPicker and Color Palette. We aslo get a Gradient Background to use it we have to enable it. In Gradient Background we can set its type i.e. linear or radial and we we can set angle.
 
 
 **Border** : Here we can Apply border to button with Three styles Solid, Dashed and Dotted.
@@ -85,38 +86,40 @@ Under Radius we can also change border radius. By clicking on Unlink sides we ca
     
 **Transforms** : 
 
-**i) Rotate** : Here we can rotate button in x axis, y axis and z axis. Entered value has degree as unit.
+**Rotate** : Here we can rotate button in x axis, y axis and z axis. Entered value has degree as unit.
 
-**ii) Skew** : Here we can tilt the button in x axis and y axis. Entered value has degree as unit.
+**Skew** : Here we can tilt the button in x axis and y axis. Entered value has degree as unit.
 
-**iii) Offset** : Here we can shift the button in x axis and y axis. Entered value has pixel as unit.
+**Offset** : Here we can shift the button in x axis and y axis. Entered value has pixel as unit.
 
-**iv) Scale** : Here we can increase or decrease the scale of Button. Here value can be changed from 0 to 2.
+**Scale** : Here we can increase or decrease the scale of Button. Here value can be changed from 0 to 2.
 
 *Note: We can reset the modified value to default by clicking reset button.*
 
 ## Text Shadow
 *(Note : To use Text Shadow we need to enable it)*
 
-**1)** In text shadow we can change Text Color using Color Picker or Color Palette.
+**Color** :In text shadow we can change Text Color using Color Picker or Color Palette.
 
-**2)** Text shadow can be applied Horizontally and Vertically with blur effect. Entered value has pixel as unit.
+**Blur** :T Here we can apply Blur to button text shadow. Entered value has pixel as unit.
+**Horizontal** : Text shadow can be applied Horizontally. Entered value has pixel as unit.
+**Vertical** : Text shadow can be applied Vertically. Entered value has pixel as unit.
 
 ## Layout
 
-**1) Padding** : Here we can apply padding to button. We can also apply padding to individual side by clicking on unlink sides.
+**Padding** : Here we can apply padding to button. We can also apply padding to individual side by clicking on unlink sides.
     
 ## Icon 
 
-**1)** Here we can add Icon on button by clicking on select icons. We get whole Bunch of icons.
+**Select Icon** : Here we can add Icon on button by clicking on select icons. We get whole Bunch of icons.
 
-**2)** After Selecting icon we can change of Icon under Size section.
+**Size** : Here we can change size of Icon under Size section. Entered value has pixel as unit.
 
-**3)** Postion of icon can also be changed from left to right under Position section.
+**Postion** : Postion of icon can also be changed from left to right under Position section.
 
-**4)** Padding can also be applied mixed and individually. 
+**Padding** : Padding can also be applied mixed and individually. Entered value has pixel as unit. 
 
-**5)** Color of the icon can be changed by enabling color toggle. We can apply normal color as well as Hover effect color using Color Picker and Color palette 
+**Color** : Color of the icon can be changed by enabling color toggle. We can apply normal color as well as Hover effect color using Color Picker and Color palette 
 
 ## On Scroll
 

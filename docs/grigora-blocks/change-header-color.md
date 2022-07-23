@@ -20,10 +20,10 @@ Once Footer is opened, click on **List View** from Top Bar.
 
 ![Select List View](/img/tutorial/chc4SelectListView.png)
 
-Under **List View** go to group hierarchy and select 2nd Group. This should select the complete Header Block.
+Under **List View** go to Header hierarchy and select Row. This should select the complete Header Block.
 
-![Select Group](/img/tutorial/chc5SelectGroup.png)
+![Select Row](/img/tutorial/chc5SelectRow.png)
 
-Now go to **Group Settings** and Select **Background** under **Color** and change color
+Now go to **Row Settings** and Select **Background** under **Color** and change color
 
 ![Change Background](/img/tutorial/chc6changeBackground.png)

@@ -8,17 +8,20 @@ In **Wordpress Admin Panel** go to **Appearance > Editor** section
 
 ![Open Editor](/img/tutorial/cst1OpenEditor.png)
 
-Once editor is opened Tap on Toggle Block Inserter
+After opening **Editor Section** Click **Toggle Navigation > Template Parts > Header** which in on **left top** corner of Editor Section Screen.
 
-![Select Inserter](/img/tutorial/cst2selectInserter.png)
+Click on **Toggle Navigation**.
 
-In inserter, insert Site Title Block
+![Toggle Navigation](/img/tutorial/cst2toggleNavigation.png)
 
-![Insert Site Title](/img/tutorial/cst3insertSiteTitle.png)
+Select **Template Parts** and Open **Header**
 
-Once Site Title is inserted, you can edit it
+![Open Header](/img/tutorial/cst3openHeader.png)
+
+In header, select **Site Title** Block and Edit the title as per your choice. This block is responsible for setting your Website's Site Title. 
 
 ![Edit Site Title](/img/tutorial/cst4editSiteTitle.png)
 
-![Site Title](/img/tutorial/cst5SiteTitle.png)
+
+
 
