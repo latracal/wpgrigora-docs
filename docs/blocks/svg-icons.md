@@ -16,9 +16,9 @@ Now Go to SVG Icons settings, in block settings we see settings of SVG Icons and
 
 ## Icon
 
-Select Icon to insert icon. 
+To insert an icon, click "Select Icon" and select the desired icon. 
 
-The Size of icon can also be can using unit input.
+After inserting icon the Size of icon can also be can using unit input. Value entered uses pixels as its unit.
 
 Color of the icon can also be changed by turning on the toggle button. The color can be applied normally as well as on hover effect using Color Picker and Color Palette.
 

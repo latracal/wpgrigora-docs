@@ -16,56 +16,63 @@ Now Go to Number Counter settings, in block settings we see settings of Number C
 
 ## Counter
 
-**Counter Start and End** : In Number counter we get Start value where the counter will begin and the End Value where the will end. Values entered can only be numbers.
+**Counter Start and End** : In a number counter, we get the Start Value, which indicates where the counter will begin, and the Stop Value, which indicates where it will end. Only numbers may be entered as values.
 
-**Time** : Time of Counter can also be increased or decreased from 0.5 sec to 20 sec.
+**Time** : The counter's time can also be adjusted from 0.5 to 20 seconds.
 
-**Auto-format Number** : Numbers will be autoformatted to compact notation. Eg. 1100 will become 1.1K
+**Auto-format Number** : Numbers will be converted to compact notation automatically. For eg. 1100 will become 1.1K.
 
-**Number Prefix** : Number Prefix will add Text or Numbers before Counter.
+**Number Prefix** : Number Prefix will place text or numbers before the counter.
 
-**Number Suffix** : Number Suffix will add Text or Numbers after Counter.
+**Number Suffix** : Number Suffix will place text or numbers after the counter.
 
-**Thousands Separator** : Using Thousand Separator we can add commas (,) or Dots(.) as a separator. 
+**Thousands Separator** : Commas (,) or dots (.) can be added as separators using the thousand separator.
 
 ## Typography
 
-**Size** : Size of font can be changed by dragging slider back and forth. Minimum value of font can be "0 px", Maximum value of font can be "100 px" and default value is "50 px".
+**Size** : The font size can be modified by sliding the slider back and forth.
+- Minimum Value  0px 
+- Maximum Value  100px 
+- Default Value  50px 
 
-**Line Height** : Here we can add the space between lines by Dragging Slider Back and Forth.Minimum value can be "10 px", Maximum value can be "300 px" and default value is "10 px".
+**Line Height** : Line Height can be modified by sliding the slider back and forth.
+- Minimum Value  10px 
+- Maximum Value  300px 
+- Default Value  10px 
 
-**Letter Spacing** : Here we can add the space between letters by Dragging Slider Back and Forth. Minimum value can be "0 px", Maximum value can be "150 px" and default value is "0 px".  
+**Letter Spacing** : Letter Spacing add the space between letters by Dragging Slider Back and Forth.
+- Minimum Value  0px 
+- Maximum Value  150px 
+- Default Value  0px 
 
-**Word Spacing** : Here we can add the space between words by Dragging Slider Back and Forth. Minimum value can be "0 px", Maximum value can be "150 px" and default value is "0 px".
+**Word Spacing** : Word Spacing add the space between words by Dragging Slider Back and Forth.
+- Minimum Value  0px 
+- Maximum Value  150px 
+- Default Value  p0x 
 
-**Transform** : Here we can Transform font to Uppercase (All Letters Capital), Lowercase (All letters small) and Capitalize (First letter of word is capital).
+**Transform** : Transform font to Uppercase (All Letters Capital), Lowercase (All letters small) and Capitalize (First letter of word is capital).
 
-**Style** : Here we can style text to different styles.
+**Style** : Text can be styled in a variety of ways here.
 
-**Decoration** : Here we apply decoration to text, Overline (Adds line above text), Line Through (Adds line through text), Underline (Adds line Below text), Underline OverLine (Adds line Above and Below text).
+**Decoration** : Text decoration applies decorations like Overline (adds line above text), Line Through (adds line through text), Underline (adds line below text), and Underline OverLine (Adds line Above and Below text).
 
-**Weight** : Here we can apply weight to text from 100 to 900.
+**Weight** : Weight adds text weights ranging from 100 to 900.
 
 ## Color & Effects
 
-**Colors** : Here we can change color of text. We get two options to choose colors i.e. 
-Colorpicker and Color Palette. 
+**Colors** : Text colour can be changed using the Colorpicker or Color Palette. 
 
-**Text Shadow**
-
-**1)** In text shadow we can change Text Color using Color Picker or Color Palette.
-
-**2)** Text shadow can be applied Horizontally and Vertically with blur effect. Entered value has pixel as unit.
+**Text Shadow** : Text Shadow casts a shadow across the text.
+- **Color** : Text shadow color can be changed using the Colorpicker or Color Palette.
+- **Blur** : Text shadow can be blurred with Blur effect. Value entered uses pixels as its unit.
+- **Horizontal** : Text shadow can be applied Horizontally. Value entered uses pixels as its unit.
+- **Vertical** : Text shadow can be applied  Vertically. Value entered uses pixels as its unit.
 
 **Transforms** 
-
-**Rotate** : Here we can rotate Counter in x axis, y axis and z axis. Entered value has degree as unit.
-
-**Skew** : Here we can tilt the Counter in x axis and y axis. Entered value has degree as unit.
-
-**Offset** : Here we can shift the Counter in x axis and y axis. Entered value has pixel as unit.
-
-**Scale** : Here we can increase or decrease the scale of Counter. Here value can be changed from 0 to 2.
+- **Rotate** : Counter can be rotated in the x, y, and z axis. Entered value has degree as unit.
+- **Skew** : Skew tilts the Counter in x axis and y axis. Value entered uses  as its unit.
+- **Offset** : Offset shifts the Counter in x axis and y axis. Value entered uses pixels as its unit..
+- **Scale** : Scale increases or decreases the scale of Counter. Here value can be changed from 0 to 2.
 
 *Note: We can reset the modified value to default by clicking reset button.*
 
