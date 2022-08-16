@@ -21,7 +21,7 @@ Now Go to Button block settings, in block settings we see bunch of settings and 
 
 ## Typography
 
-**Size:** Size changes button font size by Dragging Slider Back and Forth.
+**Size**: Size changes button font size by Dragging Slider Back and Forth.
 - Minimum Value  0px 
 - Maximum Value  100px 
 - Default Value  16px 
@@ -43,7 +43,7 @@ Now Go to Button block settings, in block settings we see bunch of settings and 
 
 **Transform**:  Transform font to Uppercase (All Letters Capital), Lowercase (All letters small) and Capitalize (First letter of word is capital).
 
-**Style**: Text can be styled in a variety of ways here..
+**Style**: Text can be styled in a variety of ways here.
 
 **Decoration**: Text decoration applies decoration to text like Overline(Adds line above text), Line Through(Adds line through text), Underline(Adds line Below text), Underline OverLine(Adds line Above and Below text).
 
