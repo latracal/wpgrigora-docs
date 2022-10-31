@@ -101,7 +101,7 @@ Box Shadow casts a shadow across the Scroll to Top.
 **Vertical Movement**  : To apply vertical on scroll movement click on edit icon.
 - **From Viewport** :  -->
 
-### Sticky 
+<!-- ### Sticky 
 *(The Sticky effect only applies on the preview or the live page, not in the Block Editor.)*
 
 **Sticky** :  Here we get three options : None, Top and Bottom.
@@ -117,4 +117,4 @@ Box Shadow casts a shadow across the Scroll to Top.
 
 By switching on hide setting, Scroll to Top can be made invisible on desktop, tablet and mobile devices, respectively.
 
-
+ -->

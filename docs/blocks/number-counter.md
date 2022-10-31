@@ -114,7 +114,7 @@ After selecting Number Counter , Go to block settings, in block settings we see 
 **Vertical Movement**  : To apply vertical on scroll movement click on edit icon.
 - **From Viewport** :  -->
 
-### Sticky 
+<!-- ### Sticky 
 *(The Sticky effect only applies on the preview or the live page, not in the Block Editor.)*
 
 **Sticky** :  Here we get three options : None, Top and Bottom.
@@ -142,6 +142,6 @@ By switching on hide setting, Number Counter can be made invisible on desktop, t
 
 **Sticky** : A mix of fixed and relative position is sticky positioning. When the element reaches a predetermined threshold, it is considered as fixed positioned; before to that, it is treated as relative positioned. 
 
-*Note: We can reset the modified value to default by clicking reset button.*
+*Note: We can reset the modified value to default by clicking reset button.* -->
 
 
