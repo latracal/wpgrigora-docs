@@ -169,7 +169,7 @@ Box Shadow casts a shadow across the Button.
 **Vertical Movement**  : To apply vertical on scroll movement click on edit icon.
 - **From Viewport** :  -->
 
-### Sticky 
+<!-- ### Sticky 
 *(The Sticky effect only applies on the preview or the live page, not in the Block Editor.)*
 
 **Sticky** :  Here we get three options : None, Top and Bottom.
@@ -195,4 +195,4 @@ By switching on hide setting, buttons can be made invisible on desktop, tablet a
 
 **Fixed** : When an element has position: fixed;, it is placed relative to the viewport, meaning it always remains in the same spot regardless of how far the page is scrolled.The element's position can be adjusted using the top, right, bottom, left, and z index attributes.
 
-**Sticky** : A mix of fixed and relative position is sticky positioning. When the element reaches a predetermined threshold, it is considered as fixed positioned; before to that, it is treated as relative positioned. 
+**Sticky** : A mix of fixed and relative position is sticky positioning. When the element reaches a predetermined threshold, it is considered as fixed positioned; before to that, it is treated as relative positioned.  -->
